@@ -15,4 +15,13 @@
    "Mileage" : "23-31 kmpl", 
    "Price" : "₹ 6.23 Lakh - ₹ 9.17 Lakh"
   },
+  {
+   "id" : 3
+   "Car company" : "Mercedes-Benz", 
+   "Car model" : " Mercedes-Benz GLC", 
+   "Colour" : "Black", 
+   "Mileage" : "12.74-13.79 kmpl", 
+   "Price" : "₹ 62.00 Lakh - ₹ 68.00 Lakh"
+  },
+  
 ]
